@@ -1,3 +1,3 @@
-# Shortest path algorithm comparison
-Python project to compare how diferent types of algorithms calculate the shortest path between two gps positions
+# Shortest path algorithm strategies comparison
+Python project to compare how different types of algorithms strategies calculate the shortest path between two gps positions
 ![App capture](img/capture.png)
